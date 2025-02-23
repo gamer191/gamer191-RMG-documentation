@@ -16,9 +16,13 @@ Emulation
 ------------
 
 ``Hide cursor during emulation``: This option will hide the cursor when it is hovering over the N64 game. If the game isn't full-screen, you'll be able to make the cursor re-appear by dragging it to the top or bottom of the screen
+
 ``Hide cursor during fullscreen emulation``: This option will hide the cursor during fullscreen emulation. By default you can exit fullscreen emulation using alt+enter (this can be changed in Hotkeys>View)
+
 ``Pause emulation on focus loss``: Emulation will be paused if RMG is minimised or if another window is clicked
+
 ``Resume emulation on focus gain``: Emulation will be resumed when the RMG window is clicked. This has no effect if ``Pause emulation on focus loss`` is disabled
+
 ``Automatically switch to fullscreen on emulation start``: Games will launch in full screen mode. By default you can exit fullscreen mode using alt+enter (this can be changed in Hotkeys>View)
 
 ROM Browser
