@@ -1,5 +1,5 @@
 Welcome to Gamer191's RMG documentation!
-===================================
+========================================
 
 This website intends to document all the settings of the RMG emulator and it's default plugins
 
@@ -12,10 +12,10 @@ Contents
 
 .. toctree::
 
-   Interface
-   Hotkeys
-   Core
-   Game
-   Plugins
-   Directories
-   64DD
+   interface
+   hotkeys
+   core
+   game
+   plugins
+   directories
+   64dd
