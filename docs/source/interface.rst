@@ -29,7 +29,7 @@ Emulation
 
 ``OpenGL type``: Changes whether games are run using `OpenGL` or `OpenGL ES`. There is no need to change this setting unless you are unable to load any ROMs
 
-    .. figure:: /assets/opengl-error-message-screenshot.png
+    .. figure:: /_static/opengl-error-message-screenshot.png
        :align: left
        :alt: Error message when OpenGL fails to load ROMs
        :figwidth: 50%
