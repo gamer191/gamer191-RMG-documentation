@@ -10,7 +10,7 @@ General
 
 ``Check for updates``: Controls whether RMG will automatically check for updates. If an update is found, RMG will prompt the user before installing it
 
-``Discord Rich Presence``: If Discord is installed, your friends will (by default) be able to see which N64 games you are playing at any given time
+``Discord Rich Presence``: If Discord is installed, your friends will (by default) be able to see which N64 game you are currently playing
 
 Emulation
 ------------
